@@ -1,0 +1,9 @@
+{
+  "name": "@csdev/is-multiple",
+  "version": "0.0.1",
+  "type": "commonjs",
+  "repository": "https://github.com/igloocompany/cslim.git",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/cs4dev"
+  }
+}

@@ -16,7 +16,8 @@
     "baseUrl": ".",
     "paths": {
       "@cs4dev/is-even": ["packages/is-even/src/index.ts"],
-      "@cs4dev/is-odd": ["packages/is-odd/src/index.ts"]
+      "@cs4dev/is-odd": ["packages/is-odd/src/index.ts"],
+      "@csdev/is-multiple": ["packages/is-multiple/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
