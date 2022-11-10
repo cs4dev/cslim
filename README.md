@@ -1,7 +1,7 @@
 ### Generate a new package
 
 ```
-npx nx generate @nrwl/js:library is-multiple --publishable --importPath @csdev/is-multiple
+npx nx generate @nrwl/js:library is-multiple --publishable --importPath @cs4dev/is-multiple
 ```
 
 ### Change publish target
