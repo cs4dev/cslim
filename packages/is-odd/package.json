@@ -1,5 +1,9 @@
 {
   "name": "@cs4dev/is-odd",
   "version": "0.0.5",
-  "type": "commonjs"
+  "type": "commonjs",
+  "repository": "https://github.com/igloocompany/cslim.git",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/cs4dev"
+  }
 }
